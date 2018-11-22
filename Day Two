@@ -1,0 +1,4 @@
+print("hello world")
+print
+b=10
+a*b=22
